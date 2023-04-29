@@ -1,8 +1,8 @@
 name: PatternFly
 type: theme
-description: PatternFly D8 Theme
+description: PatternFly D9 Theme
 package: Other
-core: 8.x
+core: 9.x
 base theme: stable
 libraries:
   - patternfly/global
